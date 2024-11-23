@@ -22,25 +22,34 @@
 ---
 
 ## Use with Node.js
+
 - Clone the repository:
+
 ```bash
-https://github.com/your-username/console-cleaner-cli.git 
+https://github.com/hdhumanez07/console-cleaner-cli.git
 ```
+
 - Paste **cleaner.js** in your root project and execute
+
 ```bash
-node cleaner.js . 
+node cleaner.js .
 ```
+
 - Or using with package.json if your project is based in Node.js
+
 ```bash
 "scripts": {
   ... other awesome scripts
   "clean": "node cleaner.js ."
 }
 ```
+
 - And run
+
 ```bash
 npm run clean
 ```
+
 ## Screenshots
 
 ![App Screenshot](https://media.licdn.com/dms/image/v2/D4E22AQG6TeQtH2qyLg/feedshare-shrink_800/feedshare-shrink_800/0/1732384869569?e=1735171200&v=beta&t=S-1p1c-_VZ5PJmnGRIbTqtl6LlWv0xjhrVXEBxRbKo0)
@@ -52,7 +61,6 @@ npm run clean
 ![App Screenshot](https://media.licdn.com/dms/image/v2/D4E22AQEsqw1vKx6PtA/feedshare-shrink_800/feedshare-shrink_800/0/1732384869575?e=1735171200&v=beta&t=NpNwgSz-CA6OQE1uCK4Sg_7lq9uQVZQLQDYXdGR6ok0)
 
 ![App Screenshot](https://media.licdn.com/dms/image/v2/D4E22AQGurx7XyRalSw/feedshare-shrink_800/feedshare-shrink_800/0/1732384869579?e=1735171200&v=beta&t=pKkgs1vBN_iNexAXAOAbGSd7ly9pMKMEt0rKsAlgTXg)
-
 
 ## Authors
 
